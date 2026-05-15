@@ -11,7 +11,7 @@
 Готовий Excel-файл знаходиться за шляхом:
 
 ```text
-outputs/three_statement_model/CFI-3-Statement-Model-Completed-with-Answers.xlsx
+CFI-3-Statement-Model-Completed-with-Answers.xlsx
 ```
 
 ## Прев'ю результату
@@ -20,11 +20,11 @@ outputs/three_statement_model/CFI-3-Statement-Model-Completed-with-Answers.xlsx
 
 ### Заповнена фінансова модель
 
-![Заповнена фінансова модель](outputs/three_statement_model/practice_preview.png)
+![Заповнена фінансова модель](practice_preview.png)
 
 ### Вкладка з відповідями
 
-![Вкладка з відповідями](outputs/three_statement_model/answers_preview.png)
+![Вкладка з відповідями](answers_preview.png)
 
 У файлі використано вкладку:
 
@@ -94,4 +94,14 @@ Gross Profit знизився через погіршення валової м�
 - зниженню COGS як відсотка від Revenue з 45.0% до 38.0%;
 - покращенню working capital, оскільки Change in NWC став від'ємним і почав додавати до операційного cash flow.
 
+## Перевірка
 
+Після заповнення моделі було перевірено:
+
+- відсутність формульних помилок типу `#REF!`, `#DIV/0!`, `#VALUE!`, `#NAME?`;
+- коректність Balance Sheet Check;
+- відповідність відповідей числам у вкладці `Practice Cash Flow_Balance`.
+
+## Примітка
+
+Файл створено для навчальних цілей на основі шаблону Corporate Finance Institute.

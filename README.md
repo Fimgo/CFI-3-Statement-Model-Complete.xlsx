@@ -102,6 +102,4 @@ Gross Profit знизився через погіршення валової м�
 - коректність Balance Sheet Check;
 - відповідність відповідей числам у вкладці `Practice Cash Flow_Balance`.
 
-## Примітка
-
-Файл створено для навчальних цілей на основі шаблону Corporate Finance Institute.
+Дякую з вами був Трофім ##Fimgo 
